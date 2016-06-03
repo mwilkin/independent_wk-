@@ -1,0 +1,47 @@
+body {
+  font-style: normal;
+  font-family: sans-serif;
+}
+
+.hobbies img {
+  width: 450px;
+}
+
+p {
+  color: #000022;
+  text-decoration: bold;
+  font-family: sans-serif;
+}
+
+.page-header {
+  padding-top: 15px;
+  margin: 50px;
+  background-color: #33BDFF;
+  padding-bottom: 60px;
+  text-align: center;
+}
+
+.container {
+  border: 4px;
+  padding: 15px;
+  margin: auto;
+  background: #F2F3F4;
+  align-content: center;
+}
+
+.container2 {
+  align-content: center;
+  padding: 15px;
+  border: 4px;
+}
+
+#headshot {
+  margin-left: 50px;
+  padding: 20px;
+  width: 300px;
+}
+
+.li {
+  font-weight: bold;
+  padding: 20px;
+}
