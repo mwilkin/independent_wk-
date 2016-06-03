@@ -4,7 +4,7 @@
 
 #### _This project displays my current programming skills after the first week of Introduction to Programming at Epicodus._
 
-#####_Latest version as of: 05/27/2016_
+#####_Latest version as of: 06/03/2016_
 
 ### **Matt Wilkin**
 
