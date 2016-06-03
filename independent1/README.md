@@ -11,6 +11,7 @@
 #####_Please utilize the link following to navigate to a live version of the site on GitHub Pages._
 
 #### <http://mwilkin.github.io/independent_wk-/>
+<!-- this link isn't working and I'm not sure why -->
 
 ####_This project utilizes CSS and Bootstrap to build styles and functionality into a simple website._
 
